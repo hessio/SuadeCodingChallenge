@@ -15,3 +15,5 @@ A Flask app to provide a report based on sample data from an imaginary e-shop.
 
 ## Testing
 To run the tests, use the following command:
+
+`python -m unittest discover -s tests -p "tests/test_views.py"`
