@@ -1,7 +1,7 @@
-# Your Project Name
+# Suade Interview Question
 
 ## Overview
-A Flask app to provide a report based on sample data from an imaginary e-shop.
+A Flask app to provide a report based on sample data from an imaginary e-shop for Suade Labs interview.
 
 ## Installation
 1. Clone this repository.
